@@ -1,0 +1,114 @@
+{
+  "South Health Campus": {
+    "lat": 50.8823838,
+    "lng": -113.9509192
+  },
+  "Devon General Hospital": {
+    "lat": 53.3515216,
+    "lng": -113.7310094
+  },
+  "Cochrane Community Health Centre": {
+    "lat": 51.1845846,
+    "lng": -114.4736726
+  },
+  "University of Alberta Hospital": {
+    "lat": 53.5207648,
+    "lng": -113.5232033
+  },
+  "Grey Nuns Community Hospital": {
+    "lat": 53.46208189999999,
+    "lng": -113.4296952
+  },
+  "South Calgary Health Centre": {
+    "lat": 50.90266070000001,
+    "lng": -114.0588779
+  },
+  "Foothills Medical Centre": {
+    "lat": 51.0654136,
+    "lng": -114.1333465
+  },
+  "Strathcona Community Hospital": {
+    "lat": 53.56817789999999,
+    "lng": -113.2767427
+  },
+  "Leduc Community Hospital": {
+    "lat": 53.2546402,
+    "lng": -113.5454227
+  },
+  "Grande Prairie Regional Hospital": {
+    "lat": 55.1811543,
+    "lng": -118.8246494
+  },
+  "Peter Lougheed Centre": {
+    "lat": 51.0789832,
+    "lng": -113.983945
+  },
+  "Northeast Community Health Centre": {
+    "lat": 53.6042591,
+    "lng": -113.4173834
+  },
+  "Okotoks Health and Wellness Centre": {
+    "lat": 50.7076703,
+    "lng": -113.9734779
+  },
+  "Airdrie Community Health Centre": {
+    "lat": 51.2870065,
+    "lng": -114.012535
+  },
+  "Sheldon M. Chumir Centre": {
+    "lat": 51.0412091,
+    "lng": -114.0721189
+  },
+  "Alberta Children's Hospital": {
+    "lat": 51.0746227,
+    "lng": -114.14843
+  },
+  "Sturgeon Community Hospital": {
+    "lat": 53.65524,
+    "lng": -113.625711
+  },
+  "Royal Alexandra Hospital": {
+    "lat": 53.5573875,
+    "lng": -113.4977721
+  },
+  "Medicine Hat Regional Hospital": {
+    "lat": 50.0347231,
+    "lng": -110.7032294
+  },
+  "Misericordia Community Hospital": {
+    "lat": 53.5212848,
+    "lng": -113.6129108
+  },
+  "Innisfail Health Centre": {
+    "lat": 52.01948909999999,
+    "lng": -113.9510152
+  },
+  "WestView Health Centre": {
+    "lat": 53.5375007,
+    "lng": -113.9766561
+  },
+  "Lacombe Hospital and Care Centre": {
+    "lat": 52.4607254,
+    "lng": -113.7407883
+  },
+  "Stollery Children's Hospital": {
+    "lat": 53.5206343,
+    "lng": -113.5245271
+  },
+  "Red Deer Regional Hospital": {
+    "lat": 52.2605376,
+    "lng": -113.8176234
+  },
+  "Fort Sask Community Hospital": {
+    "lat": 53.6962239,
+    "lng": -113.2163654
+  },
+  "Chinook Regional Hospital": {
+    "lat": 49.6851144,
+    "lng": -112.8162123
+  },
+  "Rockyview General Hospital": {
+    "lat": 50.9902764,
+    "lng": -114.0972448
+  }
+}

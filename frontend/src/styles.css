@@ -1,0 +1,17 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #f9f6f0;
+}
+
+.caption {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+}
+
+.caption:hover {
+  cursor: pointer;
+}
