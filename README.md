@@ -44,12 +44,3 @@ The OpenAI GPT-4 model is an optimal choice for assessing medical emergencies an
 
 While currently a tool for individuals facing medical emergencies, we aim to expand its functionalities to integrate with official healthcare systems like AHS or serve as a resource for medical professionals managing patient flow.
 
-## Team and Roles
-
-- **Dohyun Kim**: Frontend Developer - Focuses on creating a seamless and intuitive user interface.
-- **Krish Lal**: Fullstack Developer - Bridges the gap between frontend and backend, ensuring smooth integration and functionality.
-- **Adnan Nadeer**: Frontend Developer - Enhances the user experience with interactive and user-friendly design elements.
-- **Meharpreet Singh Nanda**: Backend Developer - Manages server-side logic, ensuring robost and efficient backend operations.
-- **Taekwan Yoon**: Backend Developer - Specializes in integrating various APIs and backend services to enhance the app's functionality.
-
-[Devpost](https://devpost.com/software/finder-emergency-room-locator)
